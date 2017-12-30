@@ -1,0 +1,25 @@
+{
+  "name": "list-all-requests",
+  "version": "1.0.0",
+  "description": "a microservice that just lists all requests as they come in",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://www.github.com/langens-jonathan/list-all-requests"
+  },
+  "keywords": [
+    "microservice",
+    "mu-semtech",
+    "mu.semte.ch",
+    "node",
+    "express"
+  ],
+  "author": "Jonathan Langens <flowofcontrol@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "body-parser": "^1.18.2"
+  }
+}
